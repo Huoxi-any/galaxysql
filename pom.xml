@@ -130,7 +130,7 @@
         <ibatis-sqlmap.version>2.3.4.726</ibatis-sqlmap.version>
 
         <!-- for common -->
-        <commons-beanutils.version>1.9.4</commons-beanutils.version>
+        <commons-beanutils.version>1.11.0</commons-beanutils.version>
         <commons-lang.version>2.6</commons-lang.version>
         <commons-io.version>2.7</commons-io.version>
         <commons-pool.version>1.6</commons-pool.version>
